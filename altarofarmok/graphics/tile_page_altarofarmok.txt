@@ -1,8 +1,0 @@
-tile_page_altarofarmok
-
-[OBJECT:TILE_PAGE]
-
-[TILE_PAGE:ALTAR_OF_ARMOK_AR]
-	[FILE:images/ALTAR_OF_ARMOK_AR.png]
-	[TILE_DIM:32:32]
-	[PAGE_DIM:6:2]
