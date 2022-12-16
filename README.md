@@ -5,3 +5,6 @@ I will be updating this soon once I get everything organized. basically, using t
 
 
 If anyone has any experience with syndromes/interactions/summons please hit me up; I have tons of questions!
+
+
+![Wendigo_Actual_dwarf_biting_a_gobli](https://user-images.githubusercontent.com/71354773/208012955-6c8c092c-a8c1-4b5d-9453-763e4c510d6c.png)
