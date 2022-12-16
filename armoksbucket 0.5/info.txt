@@ -1,0 +1,15 @@
+[ID:armoksbucket]
+[NUMERIC_VERSION:5050]
+[DISPLAYED_VERSION:50.50]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5050]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.50
+[AUTHOR:WendigoActual]
+[NAME:Armok's Bucket]
+[DESCRIPTION:Armok's bucket of blessings! Reach inside for all sorts of prizes!]
+[STEAM_TITLE:Armok's Bucket of Blessings]
+[STEAM_DESCRIPTION:New and improved!
+[STEAM_TAG:Mod]
+[STEAM_TAG:Cheat]
+[STEAM_TAG:Armok]
+[STEAM_KEY_VALUE_TAG:mod:cheat]
+[STEAM_FILE_ID:2900576304]

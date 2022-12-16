@@ -1,0 +1,8 @@
+tile_page_armoksbucket
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:AB_1x1]
+	[FILE:images/AB_1x1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:128:64]
